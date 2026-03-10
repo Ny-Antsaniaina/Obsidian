@@ -39,14 +39,17 @@
             "id": "02ce35d6a3acb376",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "PRO3/cours 24-02-2026.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "cours 24-02-2026"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -212,11 +215,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "02ce35d6a3acb376",
+  "active": "e9d775b762378084",
   "lastOpenFiles": [
+    "linter.md",
+    "cours 08-2-2025.md",
+    "Untitled.base",
+    "2026-02-17.md",
     "PRO3/cours 24-02-2026.md",
     "secu/23-02-2026.md",
-    "Untitled.base",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.md",
@@ -232,7 +238,6 @@
     "PRO3/cours 26-01-2026.md",
     "PRO3/cours 17-02-2026.md",
     "PRO3/cours 13-01-2026.md",
-    "2026-02-17.md",
     "PRO3/cours 15-01-2026.md",
     "PRO3/cours 14-01-2026.md",
     "PRO3/cours 20-01-2026.md",
@@ -243,8 +248,6 @@
     "PRO3",
     "PROG5/cours 1-12-2025.md",
     "PROG5/cours 26-11-25.md",
-    "PROG5/cours 09-12-2025.md",
-    "PROG5/cours 06-01-2026.md",
     "React/classic",
     "React",
     "secu",
